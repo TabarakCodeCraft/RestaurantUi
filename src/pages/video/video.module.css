@@ -1,0 +1,6 @@
+.page {
+    background-image: url(../../assets/video.png);
+    background-size: cover;
+    background-position: center;
+    height: 640px;
+}

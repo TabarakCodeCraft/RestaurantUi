@@ -1,0 +1,126 @@
+.Page {
+    background-image: url(../../assets/BG.png);
+    background-size: cover;
+    background-position: center;
+    height: 650px;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 1200px;
+    margin: auto;
+    height: 650px;
+}
+
+.imgCenter {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img1 {
+    position: relative;
+    width: 330px;
+    height: 380px;
+
+}
+
+.img2 {
+    position: absolute;
+    width: 70px;
+    height: 550px;
+    transition: transform 1s;
+}
+
+.img2:hover {
+    transform: scale(1.1) rotate(10deg);
+}
+
+.AboutUs {
+    width: 400px;
+    height: 300px;
+}
+
+.h2 {
+    font-family: 'Cormorant Upright', sans-serif;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 0px;
+    margin-right: -175px;
+    color: #DCCA87;
+}
+
+.v1 {
+    width: 50px;
+    height: 20px;
+    margin-right: -340px;
+    margin-top: -20px;
+}
+
+.p {
+    color: #AAAAAA;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    line-height: 28px;
+    text-align: end;
+    margin-right: 5px;
+}
+
+.btn {
+    width: 140px;
+    height: 44px;
+    background: #DCCA87;
+    color: #000000;
+    border: none;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: 'Cormorant Upright', sans-serif;
+    margin-right: -250px;
+    margin-top: 10px;
+}
+
+.OurHistory {
+    width: 350px;
+    height: 300px;
+}
+
+.OurHistoryh2 {
+    font-family: 'Cormorant Upright', sans-serif;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 0px;
+    margin-left: -58px;
+    color: #DCCA87;
+}
+
+.v2 {
+    width: 50px;
+    height: 20px;
+    margin-left: -290px;
+    margin-top: -10px;
+}
+
+.p1 {
+    color: #AAAAAA;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    line-height: 28px;
+    text-align: start;
+    margin-left: 5px;
+}
+
+.btn2 {
+    width: 140px;
+    height: 44px;
+    background: #DCCA87;
+    color: #000000;
+    border: none;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: 'Cormorant Upright', sans-serif;
+    margin-left: -200px;
+    margin-top: 10px;
+}

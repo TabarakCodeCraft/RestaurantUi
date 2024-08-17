@@ -1,0 +1,82 @@
+.Page {
+    background-image: url(../../assets/BG.png);
+    background-size: cover;
+    background-position: center;
+    height: 640px;
+}
+
+
+.content {
+    width: 900px;
+    height: 450px;
+    margin: auto;
+    display: flex;
+    margin-top: 100px;
+    gap: 40px;
+}
+
+.left {
+    margin-top: 100px;
+}
+
+.right {
+    margin-top: 60px;
+    width: 450px;
+    height: 480px;
+}
+
+
+.imageChaf {
+    width: 370px;
+    height: 480px;
+}
+
+.top {
+    padding: 40px 0;
+
+}
+
+.title {
+    font-family: 'Cormorant Upright', sans-serif;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 30px;
+    color: #fff;
+}
+
+.subTitle {
+    font-family: 'Cormorant Upright', sans-serif;
+    font-size: 50px;
+    line-height: 80px;
+    color: #DCCA87;
+    font-weight: 600;
+
+}
+
+.lorem .p {
+    font-family: 'Open Sans', sans-serif;
+    color: #AAAAAA;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.text {
+    font-family: "Cormorant Upright";
+    color: #DCCA87;
+    font-weight: 400;
+    font-size: 32px;
+    margin-bottom: -10px;
+}
+
+.text2 {
+    color: #AAAAAA;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.bottomImg img {
+    width: 220px;
+    height: 80px;
+    margin-left: 50px;
+}

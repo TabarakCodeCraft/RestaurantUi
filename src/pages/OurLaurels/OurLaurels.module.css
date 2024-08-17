@@ -1,0 +1,125 @@
+.page {
+    background-image: url(../../assets/BG.png);
+    background-position: center;
+    background-size: cover;
+    height: 640px;
+}
+
+.leftImg {
+    position: relative;
+    left: 20px;
+    top: 30px;
+}
+
+.leftImg2 {
+    position: absolute;
+    left: 68px;
+    margin-top: 65px;
+}
+
+.content {
+    width: 900px;
+    height: 450px;
+    margin: auto;
+    gap: 20px;
+    display: flex;
+}
+
+.content .left {
+    margin-top: 30px;
+    /* width: 500px; */
+    height: 300px;
+}
+
+.title {
+    color: #ffffff;
+    font-family: "Cormorant Upright", sans-serif;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 0px;
+}
+
+.v2 {
+    width: 50px;
+    margin-bottom: 10px;
+}
+
+.subTitle {
+    color: #DCCA87;
+    font-size: 50px;
+    font-family: "Cormorant Upright", sans-serif;
+    font-weight: 600;
+    margin-top: -5px;
+}
+
+.Group {
+    display: flex;
+    gap: 28px;
+    /* line-height: 50px; */
+    margin-bottom: 30px;
+}
+
+.div1 {
+    display: flex;
+    gap: 12px;
+}
+
+.cNum {
+    position: relative;
+}
+
+.Num {
+    color: #AAAAAA;
+    font-size: 40px;
+    position: absolute;
+    margin-top: -68px;
+    margin-left: 28px;
+}
+.Num4{
+    color: #AAAAAA;
+    font-size: 40px;
+    position: absolute;
+    margin-top: -62px;
+    margin-left: 28px; 
+}
+
+.title1 {
+    font-family: "Cormorant Upright", sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    /* line-height: 28px; */
+    color: #DCCA87;
+    margin-top: 0px;
+}
+
+.subTitle1 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    line-height: 26px;
+    font-size: 16px;
+    color: #AAAAAA;
+    margin-top: -10px;
+
+}
+
+
+
+
+
+.img{
+    margin-left: 50px;
+
+}
+.mgg {
+    position: relative;
+    height: 420px;
+    right: -50px;
+}
+
+.G {
+    position: absolute;
+    width: 230px;
+    height: 250px;
+    margin-top: 170px;
+    right: 310px;
+}

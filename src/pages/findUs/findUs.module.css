@@ -1,0 +1,90 @@
+.page {
+    background-image: url(../../assets/BG.png);
+    background-size: cover;
+    background-position: center;
+    height: 650px;
+}
+
+.content {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    gap: 26px;
+}
+
+.left {
+    margin-top: 90px;
+}
+
+.right {
+    width: 400px;
+    height: 450px;
+    justify-content: start;
+    text-align: start;
+    margin-top: 150px;
+
+}
+
+.Contact {
+    font-family: "Cormorant Upright", sans-serif;
+    font-weight: 700;
+    font-size: 23px;
+    color: #fff;
+    margin-bottom: 0;
+
+}
+
+.v2 {
+    width: 40px;
+    margin-bottom: -10px;
+}
+
+.findUs {
+    font-family: "Cormorant Upright", sans-serif;
+    font-weight: 600;
+    color: #DCCA87;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.location {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #AAAAAA;
+    line-height: 30px;
+}
+
+.opening {
+    font-family: "Cormorant Upright", sans-serif;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 30px;
+    color: #DCCA87;
+}
+
+.time {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: -10px;
+}
+
+.btn {
+    margin-top: 40px;
+    width: 100px;
+    height: 40px;
+    background: #DCCA87;
+    border: none;
+    font-family: "Cormorant Upright", sans-serif;
+    font-size: 18px;
+    color: #000;
+    font-weight: 700;
+
+}
+
+.image {
+    width: 400px;
+    height: 450px;
+}
